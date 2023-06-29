@@ -15,8 +15,8 @@ class   ShopPage extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
             elevation: 8,
-            backgroundColor: Colors.teal.shade600,
-            title : Text('Shop Page',style: TextStyle(fontWeight: FontWeight.bold,color: Colors.white),)
+            backgroundColor: Colors.teal.shade500,
+            title : Text('Shop Page',style: TextStyle(fontWeight: FontWeight.bold),)
         ),
         // body: Text("ShopPage"),
         // backgroundColor: Colors.cyan.shade100,

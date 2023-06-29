@@ -9,7 +9,7 @@ class   CartPage extends StatelessWidget {
     return  Scaffold(
       appBar: AppBar(
         elevation: 8,
-          backgroundColor: Colors.grey.shade200,
+          backgroundColor: Colors.teal.shade500,
           title : Text('Cart Page', style: TextStyle(fontWeight: FontWeight.bold),)
       ),
     // body: Text("CartPage"),

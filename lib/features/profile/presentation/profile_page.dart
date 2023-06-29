@@ -13,8 +13,8 @@ class   ProfilePage extends StatelessWidget {
     return  Scaffold(
       appBar: AppBar(
         elevation: 8,
-          backgroundColor: Colors.teal.shade100,
-          title : Text('Profile Page',style: TextStyle(fontWeight: FontWeight.bold,color: Colors.white),)
+          backgroundColor: Colors.teal.shade500,
+          title : Text('Profile Page',style: TextStyle(fontWeight: FontWeight.bold),)
       ),
       body:
       SingleChildScrollView(
